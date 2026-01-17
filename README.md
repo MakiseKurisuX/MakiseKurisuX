@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 I'm Ervin Tan
 
-<!--
-**MakiseKurisuX/MakiseKurisuX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the National University of Singapore (NUS), passionate about building reliable software systems and practical AI products — especially **RAG**, **LLM tooling**, and **search/retrieval systems**.
 
-Here are some ideas to get you started:
+- 🎓 CS @ NUS (Focus Area: Information Retrieval)
+- 🧠 Interested in: RAG, agentic workflows, embeddings, evaluation, LLMOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I'm currently working on
+- AI-assisted research / knowledge systems (RAG + retrieval + evaluation)
+- Tools for improving **trust**, **observability**, and **reliability** in LLM applications
+- Side projects to learn and experiment with new technologies
+
+---
+
+## 🧰 Tech Stack
+**Languages**
+- Python, Java, Golang, SQL, JavaScript/TypeScript
+
+**AI / ML**
+- Retrieval-Augmented Generation (RAG), embeddings, reranking
+- Prompting, tool calling, evaluation + guardrails
+
+**Backend / Data**
+- Postgres, vector search, REST APIs
+- Airflow (pipelines), Docker
+
+**Frontend**
+- React (and occasionally React Native)
+
+---
