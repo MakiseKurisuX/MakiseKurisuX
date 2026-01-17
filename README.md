@@ -3,7 +3,7 @@
 I'm a Penultimate Computer Science student at the National University of Singapore (NUS), passionate about building reliable software systems and practical AI products, especially **RAG**, **LLM tooling**, and **search/retrieval systems**.
 
 - 🎓 CS @ NUS (Focus Area: Information Retrieval)
-- 🧠 Interested in: RAG, agentic workflows, embeddings, evaluation, LLMOps
+- 🧠 Interested in: RAG, AI Agents, agentic workflows, embeddings, evaluation, LLMOps
 
 ---
 
